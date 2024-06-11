@@ -7,6 +7,6 @@
         <title>{{ $title ?? 'Page Title' }}</title>
     </head>
     <body>
-        {{ $slot }}
+        {{ $slot }} edit
     </body>
 </html>
