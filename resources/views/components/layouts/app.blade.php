@@ -8,6 +8,5 @@
     </head>
     <body>
         {{ $slot }}
-        sdf
     </body>
 </html>
